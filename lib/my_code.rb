@@ -19,3 +19,6 @@
 # puts "The total is #{t}"
 # end 
 
+def map ()
+  
+end
