@@ -30,6 +30,6 @@ def map (array)
   new 
 end
 
-def reduce (array)
+def reduce (array, sv)
   
 end 
