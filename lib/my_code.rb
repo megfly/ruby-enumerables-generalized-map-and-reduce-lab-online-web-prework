@@ -23,8 +23,8 @@ def map (array)
   #map returns a new array of manipulated elements
   new = [] 
   i = 0 
-  
-  counter +=1 
-end
-
+  while i < array.length
+    yield(array[i])
+  i +=1 
+  end
 end
