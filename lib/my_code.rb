@@ -19,6 +19,12 @@
 # puts "The total is #{t}"
 # end 
 
-def map ()
+def map (array)
+  #map returns a new array of manipulated elements
+  new = [] 
+  i = 0 
   
+  counter +=1 
+end
+
 end
